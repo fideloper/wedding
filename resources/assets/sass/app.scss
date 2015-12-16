@@ -1,0 +1,69 @@
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+body,html {
+  height: 100%;
+}
+
+.main-body {
+    padding-bottom: 200px;
+}
+
+.fancy {
+    font-family: 'Dancing Script', cursive
+}
+
+.title {
+  font-size: 56px;
+}
+
+.subtitle {
+  font-size: 40px;
+}
+
+.navbar-fixed-top {
+    opacity: .5;
+}
+
+.wide {
+  width:100%;
+  height:100%;
+  height:calc(100% - 1px);
+  background-image:url('../../img/barcelona.jpg');
+  background-size:cover;
+  padding-top: 50px;
+}
+
+.wide img {
+  width:100%;
+}
+
+.messages {
+  background-image: none;
+}
+
+.wide.messages {
+  height: inherit;
+}
+
+.logo {
+  color:#fff;
+  font-weight:800;
+  font-size:22pt;
+  padding:25px;
+  text-align:center;
+}
+
+.messages .logo {
+  color:#333333;
+}
+
+.line {
+  padding-top:20px;
+  white-space:no-wrap;
+  overflow:hidden;
+  text-align:center;
+}
+
+#message-header {
+  margin-top:50px;
+}
