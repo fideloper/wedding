@@ -86,7 +86,7 @@
     <script>
         var dollarAmount = 0;
         var handler = StripeCheckout.configure({
-            key: 'pk_test_mhLHjrf4eU51xv5t2DBjuA3t',
+            key: '{{ env("STRIPE_PUBLIC") }}',
             image: '/img/chris_natalie.png',
             locale: 'auto',
             token: function(token) {
