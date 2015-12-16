@@ -72,8 +72,8 @@
             <div class="col-md-6">
                 <p>We are also registered for gift cards at West Elm and Target (see links below).</p>
                 <ul>
-                    <li><a href="#">West Elm</a></li>
-                    <li><a href="#">Target</a></li>
+                    <li><a href="https://secure.westelm.com/registry/phxv5r78sr/registry-list.html" target="_blank">West Elm</a></li>
+                    <li><a href="https://www-secure.target.com/gift-registry/giftgiver?registryId=zfA3vNBKLA5VCU3GwLoguQ&lnk=copiedLink" target="_blank">Target</a></li>
                 </ul>
             </div>
         </div>
