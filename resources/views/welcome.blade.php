@@ -53,14 +53,14 @@
                 <h1 class="fancy title">Registry</h1>
             </div>
             <div class="col-md-6">
-                <p>In lieu of traditional gifts (since we don't have a house to fill yet!), we're asking that people donate towards our honeymoon!</p>
+                <p>In lieu of traditional gifts (since we don't have a house to fill yet!), we're asking that people contribute towards our honeymoon!</p>
                 <form action="/charge" method="POST" id="donate_form">
                     <div class="form-group form-inline">
                         <div class="input-group">
                             <div class="input-group-addon">$</div>
                             <input type="text" class="form-control" name="amount" id="amount" placeholder="00.00" />
                         </div>
-                        <button class="btn btn-primary" id="customButton">Donate!</button>
+                        <button class="btn btn-primary" id="customButton">contribute!</button>
                     </div>
                     <input type="hidden" name="token" id="token" value="" />
                     <input type="hidden" name="email" id="email" value="" />
