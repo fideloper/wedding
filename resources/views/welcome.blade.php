@@ -33,6 +33,7 @@
             <div class="col-md-12">
                 <div class="text-center">
                     <h1 class="title fancy">May 14<sup>th</sup>, 2016</h1>
+                    <img width="450" height="413" src="/img/chris_natalie2.jpg" />
                 </div>
             </div>
         </div>
@@ -41,13 +42,21 @@
                 <h2 class="fancy subtitle">Where?</h2>
                 <p>From May 12<sup>th</sup> through May 15<sup>th</sup>, we're having an intimate family wedding at Baron's Creekside (<a href="https://www.google.com/maps/dir/San+Antonio+International+Airport,+Airport+Boulevard,+San+Antonio,+TX/316+Goehmann+Ln,+Fredericksburg,+TX+78624/@29.8836862,-98.9463567,10z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x865c8abbb1cb8027:0xfa6173ab1a2fcc52!2m2!1d-98.4683484!2d29.5311973!1m5!1m1!1s0x865bc06f79756037:0x8aa2de6e5157aa36!2m2!1d-98.8502299!2d30.2619927" target="_blank">directions from SAT</a> | <a href="http://www.baronscreekside.com/" target="_blank">website</a>)
                     in Fredericksburg, TX.</p>
+                <p>There are a lot of fun things to do in Fredericksburg! Here are some sites with more information on the city:</p>
+                <ul>
+                    <li><a href="http://www.fredericksburgtexas-online.com/">fredericksburgtexas-online.com</a></li>
+                    <li><a href="http://www.visitfredericksburgtx.com/">visitfredericksburgtx.com</a></li>
+                </ul>
             </div>
             <div class="col-md-6">
                 <h2 class="fancy subtitle">Honeymoon</h2>
-                <p>We plan on honey mooning over 12 days, split between Barcelona and Seville, Spain. As we have details on where we're staying, we'll update y'all!</p>
+                <p>We will be honey mooning over 12 days, split between Barcelona and Seville, Spain.</p>
+                <ul>
+                    <li>Barcelona - <a href="http://www.oliviabalmeshotel.es/en/">Olivia Balmes Hotel</a></li>
+                    <li>Seville - <a href="http://casadelpoeta.es/">Casa del Poeta</a></li>
+                </ul>
             </div>
         </div>
-        <!--             <p>We don't have a house to fill (yet!) but if you'd like to help, these are the the best ways!</p> -->
         <div class="row">
             <div class="col-md-12 text-center">
                 <h1 class="fancy title">Registry</h1>
